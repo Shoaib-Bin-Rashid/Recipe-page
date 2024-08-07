@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Recipe page]()
-- Live Site URL: [Recipe page Live]()
+- Solution URL: [Recipe page](https://github.com/Shoaib-Bin-Rashid/Recipe-page)
+- Live Site URL: [Recipe page Live](https://shoaib-bin-rashid.github.io/Recipe-page/)
 
 ## My process
 
@@ -48,5 +48,5 @@ I want to focus more on creating more complex designs and also designing things 
 
 - Website - Well I haven't made my profile portfolio, gonna make it sooon when I know a lot of stuffs
 - Frontend Mentor - [@Shoaib-Bin-Rashid](https://www.frontendmentor.io/profile/Shoaib-Bin-Rashid)
-- Twitter - [@ShoaibBinRashi1](https://x.com/ShoaibBinRashi1)
 - Linkedin - [Shoaib Bin Rashid](https://www.linkedin.com/in/shoaib-bin-rashid)
+- Twitter - [@ShoaibBinRashi1](https://x.com/ShoaibBinRashi1)
